@@ -11,7 +11,6 @@ It helps identify key factors that contribute to customer churn and provides ins
 
 * 📊 Power BI Dashboard (`dashboard.pbix`)
 * 📄 Dataset (`Excel file`)
-* 📑 Project Documentation (`PDF`)
 * 🖼 Dashboard Screenshot
 
 ---
